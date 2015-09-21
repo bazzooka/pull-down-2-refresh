@@ -14,3 +14,7 @@ Install the dependencies with :
 
 Compile ES6 sources with
 > npm browserify
+
+## Todo 
+- Make all animations of the loader
+- Find bugs :)
